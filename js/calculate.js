@@ -53,6 +53,7 @@ document
         inputFoodCost.value = '';
         inputRentCost.value = '';
         inputClothesCost.value = '';
+
     });
 document.getElementById("save-button").addEventListener("click", function () {
     const saveParcentInput = document.getElementById("save-percent");
